@@ -38,6 +38,12 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
+
+  # See https://github.com/rspec/rspec-rails/tree/7-0-maintenance
+  gem 'rspec-rails', '~> 7.0.0'
+
+  # See https://github.com/thoughtbot/factory_bot_rails?tab=readme-ov-file
+  gem 'factory_bot_rails'
 end
 
 
