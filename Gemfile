@@ -44,6 +44,9 @@ group :development, :test do
 
   # See https://github.com/thoughtbot/factory_bot_rails?tab=readme-ov-file
   gem 'factory_bot_rails'
+
+  # Faker
+  gem 'faker'
 end
 
 
