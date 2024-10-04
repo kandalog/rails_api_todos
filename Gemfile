@@ -47,6 +47,10 @@ group :development, :test do
 
   # Faker
   gem 'faker'
+
+  # See https://github.com/bcrypt-ruby/bcrypt-ruby
+  gem "bcrypt", "~> 3.1"
+
+  # See https://github.com/jwt/ruby-jwt
+  gem "jwt", "~> 2.9"
 end
-
-
