@@ -40,7 +40,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   # See https://github.com/rspec/rspec-rails/tree/7-0-maintenance
-  gem 'rspec-rails', '~> 7.0.0'
+  gem 'rspec-rails', '~> 7.1.0'
 
   # See https://github.com/thoughtbot/factory_bot_rails?tab=readme-ov-file
   gem 'factory_bot_rails'
