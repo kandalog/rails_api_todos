@@ -52,5 +52,5 @@ group :development, :test do
   gem "bcrypt", "~> 3.1"
 
   # See https://github.com/jwt/ruby-jwt
-  gem "jwt", "~> 2.9"
+  gem "jwt", "~> 2.10"
 end
